@@ -17,8 +17,9 @@ To run a file, follow these steps:
 If you want to actually put it into a Leetcode editor, follow these steps:
 1. Open the file you want to put into the Leetcode editor.
 2. Put the entire script into the Leetcode editor for that problem.
-3. Comment out the first line (looks like this: `package [something];`)
-4. The code should be able to run inside the Leetcode editor.
+3. Delete out the first line (looks like this: `package [something];`)
+4. Delete the main() method.
+5. The code should be able to run inside the Leetcode editor.
 
 Note: Copy ALL of the code, not just up until the end of the last function.
 Note: If there's some amount of folders that say "thisProblem" and "thisProblem2"
