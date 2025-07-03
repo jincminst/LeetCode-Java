@@ -17,12 +17,13 @@ To run a file, follow these steps:
 If you want to actually put it into a Leetcode editor, follow these steps:
 1. Open the file you want to put into the Leetcode editor.
 2. Put the entire script into the Leetcode editor for that problem.
-2. Comment out the first line (looks like this: `package [something];`)
-3. The code should be able to run inside the Leetcode editor.
+3. Comment out the first line (looks like this: `package [something];`)
+4. The code should be able to run inside the Leetcode editor.
 
 Note: Copy ALL of the code, not just up until the end of the last function.
 Note: If there's some amount of folders that say "thisProblem" and "thisProblem2"
       and "thisProblem3" or something, that means I have different approaches
       for that problem.
+Note: JavaTesting is for testing Java features. 
 
 Java Problem Count: 1 (I add one every time I finish all approaches for a problem.)
