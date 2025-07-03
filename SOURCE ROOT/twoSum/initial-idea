@@ -1,0 +1,6 @@
+1. Create a HashMap of Integer to Integer. (a number mapped to its index.)
+2. Loop through each integer in nums.
+    - Check if the difference between target and the current integer is in the HashMap
+    - If yes, the result is [the current index, the index of the difference.]
+    - If no, continue on.
+3. If there were no two indices that elements add up to target, return []
