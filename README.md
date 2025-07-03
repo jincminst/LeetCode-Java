@@ -21,5 +21,8 @@ If you want to actually put it into a Leetcode editor, follow these steps:
 3. The code should be able to run inside the Leetcode editor.
 
 Note: Copy ALL of the code, not just up until the end of the last function.
+Note: If there's some amount of folders that say "thisProblem" and "thisProblem2"
+      and "thisProblem3" or something, that means I have different approaches
+      for that problem.
 
-Java problem count: 1
+Java Problem Count: 1 (I add one every time I finish all approaches for a problem.)

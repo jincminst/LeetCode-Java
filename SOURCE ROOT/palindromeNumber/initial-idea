@@ -1,0 +1,7 @@
+1. Turn x into a string (x is the given integer) named stringX.
+2. Loop through the indices from 0 to half the length of stringX.
+    - Check if the digit on the other side of stringX is equal.
+    - If yes, continue on.
+    - If no, stop there and return false.
+3. If you found no digits that didn't match the one from across stringX,
+   return true.
