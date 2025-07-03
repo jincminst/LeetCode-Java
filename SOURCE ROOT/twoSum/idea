@@ -1,0 +1,7 @@
+1. Loop through each index (index is i).
+    - Loop through every index after it (index is j).
+        - Check if the element at index i plus the element at index j
+          is equal to the target.
+        - If yes, return an array of i and j.
+        - If no, continue on.
+2. (needed because the function is int[]) Return an empty array.
